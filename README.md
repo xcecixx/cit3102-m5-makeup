@@ -33,7 +33,6 @@ Each makeup record contains the following fields:
 
 - PHP
 - Laravel
-- SQLite
 - Laravel Sanctum
 - Bruno API Client
 - Git
